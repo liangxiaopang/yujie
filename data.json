@@ -1,0 +1,1389 @@
+{
+  "seller": {
+    "name": "钰杰文化",
+    "description": "顺丰发货",
+    "connect": "13407091145",
+    "score": 5,
+    "serviceScore": 5,
+    "stampScore": 5,
+    "rankRate": 69.2,
+    "minPrice": 88,
+    "deliveryTime":24,
+    "membershipgroup": "973345401",
+    "ratingCount": 24,
+    "sellCount": 420,
+    "bulletin": "南昌钰杰文化有限公司是一家专注邮票钱币等收藏品电子化交易的公司，努力探索线下传统交易模式和互联网+模式的有效融合，经过多年不断的发展,2015年就已经成为南京文化产权交易中心一级经纪商,号段为5103,月成交额稳步上升.",
+    "supports": [
+      {
+        "type": 0,
+        "description": "满288减20元"
+      },
+      {
+        "type": 1,
+        "description": "首单2017熊猫币9折"
+      },
+      {
+        "type": 2,
+        "description": "天天特价"
+      },
+      {
+        "type": 3,
+        "description": "支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "一尘网认证商家"
+      }
+    ],
+    "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
+    "pics": [
+      "./Users/kash/Desktop/elemed/src/components/seller/1.jpg",
+      "http://img.zgqbyp.com/image/20160324/20160324113891629162.jpg",
+      "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180"
+    ],
+    "infos": [
+      "本公司支持发票,请下单写好发票抬头",
+      "品类:钱币邮票,南京文交所",
+      "江西省南昌市青云谱区世纪欧美中心A座1701室",
+      "营业时间:9:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热卖精品",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "王家大院本片",
+          "price": 188,
+          "oldPrice": "",
+          "description": "邮资片",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "作为艺术与实物的结合，《王家大院本片》在题材内容取舍与提炼方面恰到好处，主题思想突出，工艺典雅，能体会出设计者对藏品的着心设计。从邮币卡市场收益率和藏品《王家大院本片》发行量、历史市场价格以及近期全国综合市场报价情况等角度分析，该藏品拥有不错的升值空间。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "王家大院,厉害",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160302/20160302102116501650.jpg",
+          "image": "http://img.zgqbyp.com/image/20160302/20160302102116501650.jpg"
+        },
+        {
+          "name": "亚太电信套票",
+          "price": 8,
+          "oldPrice": "",
+          "description": "套票",
+          "sellCount": 219,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "未使用的新票、无任何人为修理痕迹,无缺损及明显折痕,无墩角、角圆现象,无明显发黄,无霉点及明显污渍,无水波纹,边角整齐",
+          "icon": "http://img.zgqbyp.com/image/20160620/2016062010460210210.jpg",
+          "image": "http://img.zgqbyp.com/image/20160620/2016062010460210210.jpg"
+        },
+        {
+          "name": "武汉大学套票",
+          "price":60,
+          "oldPrice": "",
+          "description": "编年邮票",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "为纪念武汉大学建校一百二十周年，中国邮政于2013年11月29日发行此套邮票。邮票主图以武汉大学历史悠久的老图书馆和浪漫盛开的樱花味邮票的主图元素，青色的琉璃瓦，腾飞的屋檐，以及绿树环绕、樱花点缀的环境直观写实地表现武汉大学建校120周年的辉煌和名校的文化风采。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "全新,很精美",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很不错",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160214/2016021409040552552.jpg",
+          "image": "http://img.zgqbyp.com/image/20160214/2016021409040552552.jpg"
+        },
+        {
+          "name": "奥运钞",
+          "price": 140,
+          "oldPrice": "",
+          "description": "纪念钞",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "很有质感",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027084690759075.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027084690759075.jpg"
+        },
+        {
+          "name": "cnt石拱桥",
+          "price": 280,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "珍品",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027085280058005.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027085280058005.jpg"
+        },
+        {
+          "name": "2011熊猫加字银币",
+          "price": 500,
+          "oldPrice": "",
+          "description": "纪念银币",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "熊猫纪念币很有意义",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "祖国越来越强大",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027085620952095.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027085620952095.jpg"
+        },
+        {
+          "name": "一轮生肖鸡票",
+          "price": 311,
+          "oldPrice": "",
+          "description": "T字邮票",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "防伪纸张、防伪油墨、异形齿孔、荧光喷码",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151204/20151204090731313131.jpg",
+          "image": "http://img.zgqbyp.com/image/20151204/20151204090731313131.jpg"
+        },
+        {
+          "name": "三版壹元券",
+          "price": 48,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "这种藏品只会越来越少",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027091597749774.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027091597749774.jpg"
+        },
+        {
+          "name": "53年大号伍分",
+          "price": 9,
+          "oldPrice": "",
+          "description": "第二套人民币",
+          "sellCount": 810,
+          "rating": 91,
+          "info": "《53年大号伍分券》发行量虽然很大，但价格相对较低，是较为理想的适合大众参与的投资品种。另外由于其性价比较高，时间久远，大量货源已被消耗沉淀，市场可流通量较低",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151111/20151111110425772577.jpg",
+          "image": "http://img.zgqbyp.com/image/20151111/20151111110425772577.jpg"
+        },
+        {
+          "name": "虎年流通币",
+          "price": 21,
+          "oldPrice": "",
+          "description": "普通纪念币",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "2010庚寅虎年贺岁生肖纪念币》上戴着虎头帽的儿童敲打腰鼓，背景为燃放的鞭炮和布老虎，图案栩栩如生，画面十分饱满。中国的生肖文化已传承了两千多年，其底蕴之深厚，人民口碑之广博是其他任何概念的传统文化所无法比拟的。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151026/20151026085343034303.jpg",
+          "image": "http://img.zgqbyp.com/image/20151026/20151026085343034303.jpg"
+        }
+      ]
+    },
+    {
+      "name": "新人豪礼",
+      "type": 2,
+      "stamps": [
+        {
+          "name": "17熊猫币[金银币]",
+          "price": 18000,
+          "oldPrice": 20000,
+          "description": "全品相,金总直接拿货.带包装",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "品相很好,值",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "今日特价",
+      "type": 1,
+      "stamps": [
+        {
+          "name": "佛教论坛片",
+          "price": 7,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 135,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160214/20160214091184688468.jpg",
+          "image": "http://img.zgqbyp.com/image/20160214/20160214091184688468.jpg"
+        }
+      ]
+    },
+    {
+      "name": "金银纪念币",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "2011熊猫加字银币",
+          "price": 500,
+          "oldPrice": "",
+          "description": "纪念银币",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "熊猫纪念币很有意义",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "祖国越来越强大",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027085620952095.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027085620952095.jpg"
+        },
+        {
+          "name": "一轮扇银兔",
+          "price": 888,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027084860996099.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027084860996099.jpg"
+        },
+        {
+          "name": "上海银行银币",
+          "price": 1200,
+          "oldPrice": "",
+          "description": "贵金属纪念币",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "包装完整",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151026/2015102611030343343.jpg",
+          "image": "http://img.zgqbyp.com/image/20151026/2015102611030343343.jpg"
+        }
+      ]
+    },
+    {
+      "name": "cnt磁卡",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "CNT电信与体育",
+          "price": 100,
+          "oldPrice": "",
+          "description": "cnt电话卡",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "《CNT电信与体育》由权威部门中国电信发行，属于国家有价证券范畴,发行使用规范统一,是我国第一代无人值守公用电话的自费凭证,记录了中国电信在改革开放中发展壮大的步伐，是有面值的正规发行品，和钱币、邮票具有共同属性；电信日题材及体育题材的特殊意义和重大意义；存世量少，发行在1996年，消耗巨大，而且在磁卡和IC卡换卡时，大量换掉销毁，新卡存世量少，预计不超过5万枚，具有收藏品的属性。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151106/20151106133074147414.jpg",
+          "image": "http://img.zgqbyp.com/image/20151106/20151106133074147414.jpg"
+        },
+        {
+          "name": "CNT茶文化",
+          "price": 240,
+          "oldPrice": "",
+          "description": "cnt电话卡",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "《CNT茶文化》属于正规发行，由权威部门中国电信发行，属于国家有价证券范畴,发行使用规范统一,是我国第一代无人值守公用电话的自费凭证,记录了中国电信在改革开放中发展壮大的步伐，是有面值的正规发行品，和钱币、邮票具有共同属性；有电信生肖题材的特殊意义和重大意义；存世量少，消耗巨大，而且在磁卡和IC卡换卡时，大量换掉销毁，新卡存世量少，预计不超过2万枚，具有收藏品的属性。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027085045194519.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027085045194519.jpg"
+        }
+      ]
+    },
+    {
+      "name": "澳门邮票",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "澳门离骚套票",
+          "price": 18,
+          "oldPrice": "",
+          "description": "澳门邮票,套票,屈原",
+          "sellCount": 145,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160113/20160113105593269326.jpg",
+          "image": "http://img.zgqbyp.com/image/20160113/20160113105593269326.jpg"
+        },
+        {
+          "name": "澳门中国55周年套票",
+          "price": 35,
+          "oldPrice": "",
+          "description": "澳门邮票,套票,澳门",
+          "sellCount": 120,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160214/2016021408510863863.jpg",
+          "image": "http://img.zgqbyp.com/image/20160214/2016021408510863863.jpg"
+        }
+      ]
+    },
+    {
+      "name": "流通币",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "猪年流通币",
+          "price": 20,
+          "oldPrice": "",
+          "description": "普通纪念币",
+          "sellCount": 100,
+          "rating": "",
+          "info": "十二生肖蕴含了中国人民的智慧与憧憬，饱含了对幸福生活的向往与吉祥福喜的寄托之情。生肖文化的一个积极因素是吉祥祝福。中华民族自古善良，被誉为“礼仪之邦”，以思想表达、精神追求、感情传递、心理祈盼为目的的吉祥文化，内容广泛、丰富而浓厚，是我国传统民俗文化的重要组成部分。生肖属相作为与每个人伴随一生的动物形象，既是一个人的出生符号、铭记年岁的依据，也是一个人相伴一生的吉祥物，被人们赋予许多美好的祝愿和心灵的祈求。十二生肖纪念币充分展示中华民族悠久灿烂的民族文化，增进我国与世界各国的文化交流，是中华文化的结晶。",
+          "ratings": [],
+          "icon": "http://img.zgqbyp.com/image/20151026/20151026085012651265.jpg",
+          "image": "http://img.zgqbyp.com/image/20151026/20151026085012651265.jpg"
+        },
+        {
+          "name": "大熊猫流通币",
+          "price": 25,
+          "oldPrice": "",
+          "description": "普通纪念币,大熊猫",
+          "sellCount": 170,
+          "rating": 100,
+          "info": "大熊猫纪念币正面图案为国徽、国名、年号及“中华人民共和国”汉语拼音字母。背面图案为两只天真烂漫，憨态可掬的大熊猫，一坐一立。坐姿熊猫神态悠然，似乎正在惬意地啃食箭竹，站立的一只怡然自得地对着一泓清水仔细端详。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151026/20151026090583788378.jpg",
+          "image": "http://img.zgqbyp.com/image/20151026/20151026090583788378.jpg"
+        },
+        {
+          "name": "虎年流通币",
+          "price": 21,
+          "oldPrice": "",
+          "description": "普通纪念币",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "2010庚寅虎年贺岁生肖纪念币》上戴着虎头帽的儿童敲打腰鼓，背景为燃放的鞭炮和布老虎，图案栩栩如生，画面十分饱满。中国的生肖文化已传承了两千多年，其底蕴之深厚，人民口碑之广博是其他任何概念的传统文化所无法比拟的。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151026/20151026085343034303.jpg",
+          "image": "http://img.zgqbyp.com/image/20151026/20151026085343034303.jpg"
+        }
+      ]
+    },
+    {
+      "name": "封片邮资片",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "西湖博览会片",
+          "price": 14,
+          "oldPrice": "",
+          "description": "纪念邮资片",
+          "sellCount": 288,
+          "rating": 96,
+          "info": "第一届西湖博览会是中国会展史上一次规模较大影响深远的展销会。同时，它也是浙江经济走向世界的尝试。当时在国外，博览会是十分风行的，世界上最早一次博览会的时间是1798年，首创者是法国的拿破仑。接下去，许多国家每逢有纪念性的事件都开一次大规模的博览会。而在国内，最早的当推清宣统元年（1909）的武汉奖进会暨直隶展览会。次年又有京师出品会，此后，规模最大的是宣统二年举办的南洋劝业会。紧接着在上海举办了四届国货展览会。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160518/20160518092543134313.jpg",
+          "image": "http://img.zgqbyp.com/image/20160518/20160518092543134313.jpg"
+        },
+        {
+          "name": "长春汽博会片",
+          "price": 10,
+          "oldPrice": "",
+          "description": "纪念邮资片",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "长春国际汽车博览会是中国五大汽车展会之一，中国唯一国际级汽车博览会。以打造国内一流的汽车专业展览会为目标，坚持市场化运作和政府主导相结合，突出国际化、专业化和信息化特征，突出新能源、新技术的展示，把中国（长春）国际汽车博览会办成中国乃至世界汽车贸易、汽车技术交流、汽车产业投资合作、汽车文化融汇的平台。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "喜欢邮资片,又便宜又好看",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160126/20160126112614451445.jpg",
+          "image": "http://img.zgqbyp.com/image/20160126/20160126112614451445.jpg"
+        },
+        {
+          "name": "少数民族六运会片",
+          "price": 14,
+          "oldPrice": "",
+          "description": "纪念邮资片",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "第六届全国少数民族运动会是本世纪我国举办的最后一次大型综合性体育运动会。在第五届全国少数民族运动会的闭幕式上，组委会庄严宣布：第六届全国少数民族传统体育运动会将在北京举行，同时在拉萨设分赛场。本届运动会在举办时间和地点上都具有特殊的重要意义：1999年是中华人民共和国建国50周年，是西藏自治区民主改革40周年，又是本世纪的最后一年。北京是祖国的首都，是各族人民向往的地方；西藏是“世界屋脊”，是我国典型的边疆民族自治地区，为全世界所关注。届时56个民族汇聚一堂，向国内外展示我国各族人民团结奋进的精神风貌，展示民族政策和改革开放给民族地区带来的巨大变化，将在国内外产生重大影响。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "包装很新",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160302/2016030210150949949.jpg",
+          "image": "http://img.zgqbyp.com/image/20160302/2016030210150949949.jpg"
+        },
+        {
+          "name": "开平碉楼本片",
+          "price": 25,
+          "oldPrice": "",
+          "description": "特种邮资片",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "开平碉楼位于广东省江门市下辖的开平市境内，是中国乡土建筑的一个特殊类型，是集防卫、居住和中西建筑艺术于一体的多层塔楼式建筑。其特色是中西合璧的民居，有古希腊、古罗马及伊斯兰等风格多种。根据现存实证，开平碉楼约产生于明代后期(16世纪)。广东开平市的田野上，一座座欧式古典风格的小楼与中国南方农村的传统土屋交错，形成中国绝无仅有的乡间景色。碉楼中西合璧，融会了各种建筑风格的精髓。开平境内最多的时候共有3000多座碉楼，目前尚存1800多座，分布在开平15个镇、办事处。这些碉楼是上世纪开平华侨与村民主动把外国建筑文化与当地建筑文化相结合的结晶,其数量之多，建筑之精美，风格之多样，堪称世界最大的“碉楼博物馆”。这众多的碉楼，或是独立在小小岗之上，或是孤形倩景立在江边路边，或是两三为伴倚在林旁，或是三五成群团结在田野上，构成了一个偌大的碉楼博物馆。在全中国很难再找到这碉楼成群的奇异景观了。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "与众不同",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "不错,好评",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151027/20151027090872227222.jpg",
+          "image": "http://img.zgqbyp.com/image/20151027/20151027090872227222.jpg"
+        },
+        {
+          "name": "错龙片",
+          "price": 15,
+          "oldPrice": "",
+          "description": "纪念邮资片",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "发行于1878年的大龙邮票是我国邮票的开山鼻祖。大龙邮票共3枚，主图绘有一条五爪蟠龙，衬以云彩水浪，颜色和面值各不相同。“1分银”大龙邮票为绿色；“3分银”大龙邮票为棕红色；“5分银”大龙邮票是橘黄色。尽管大龙邮票前后有过三次印刷，依据粮据票幅、纸张等特征分别称为“薄大龙”、“阔边大龙”、“孕纸大龙”，但三次都没有改变颜色和面值，也就是说，“绿色3分银”大龙邮票从来没有出现过。经人为杜撰出来的“绿色3分银”大龙邮票无疑造就了JP147错片身份。严格意义上说：中国举办邮票展览会90周年这么具有重要纪念意义的日子里所发行的JP147，改变了中国第一套邮票大龙票原有的面值，篡改了中国邮票的发行史。按照国际集邮联合会（FIP）集邮展览的有关规则，邮政部门正式发行的邮资票品上的所有信息均是有用素材。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160615/20160615134289228922.jpg",
+          "image": "http://img.zgqbyp.com/image/20160615/20160615134289228922.jpg"
+        }
+      ]
+    },
+    {
+      "name": "编年邮票",
+      "type": -1,
+      "stamps": [
+        {
+          "name": "古桥小版",
+          "price": 100,
+          "oldPrice": "",
+          "description": "2003-5中国古桥-拱桥小版票",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的一张邮票",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "已入",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160620/20160620110739213921.jpg",
+          "image": "http://img.zgqbyp.com/image/20160620/20160620110739213921.jpg"
+        },
+        {
+          "name": "黄鼠小版张",
+          "price": 12,
+          "oldPrice": "",
+          "description": "2008-1 戊子年·鼠(T)第三轮生肖邮票赠送版",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "观赏图案，设计者以精巧的绘画手法凸显生肖鼠的诙谐灵巧，立体感突出，栩栩如生，形神兼备。有人说，邮票的亮点在鼠尾，灵动传神的曲度十分可爱，如意尾摇曳呼应鼠首，姿态憨厚可爱，形、色、情交融，透露着中华美学的无限神韵。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160620/20160620103963256325.jpg",
+          "image": "http://img.zgqbyp.com/image/20160620/20160620103963256325.jpg"
+        },
+        {
+          "name": "宝鼎无齿型张",
+          "price": 12,
+          "oldPrice": "",
+          "description": "无齿型张",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "无齿邮票供应不如有齿票，因发行量少的制约，导致供应渠道特殊。如“麋鹿”无齿票只供应新邮预订户，无齿“宝鼎”小型张的购买对象是预订新邮的邮协会员，无齿“桂花”小全张在邮票钱币博览会上凭票供应，因此无齿票必须通过特殊渠道购买到，形成市场定位高企也情有可原。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160616/20160616131998359835.jpg",
+          "image": "http://img.zgqbyp.com/image/20160616/20160616131998359835.jpg"
+        },
+        {
+          "name": "红军邮票",
+          "price": 150,
+          "oldPrice": "",
+          "description": "军用邮票",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "邮票围绕“神圣的使命”构思，构图以“八一”旗下陆海空三军仪仗兵战士行军礼形象为中心，突出义务兵的神圣使命，保卫社会主义祖国的光荣职责。因为主色为红色，人们习惯称它为“红军邮”。红军邮上，仪仗兵战士分别代表陆海空三军严整的军容和无敌的军威形象，模特写实的画法使三个年青人英俊雄健，朝气阳刚，代表了当代中国人的勃勃生机，背景以三军代表性的现代化兵器----主战坦克、导弹、驱逐舰，歼八战斗机、导弹直升机以及雷达、火箭等组成的诸兵种协同演习，展示了我国国防现代化及军事防卫的威慑力和综合国力的强大。和平鸽既有通信特点，又代表着和平的中国永远不会恃强凌弱，永远也不能被人欺负。加上右上角的20分字样，使整个画面既有强烈的统一，又显气势壮观。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160620/20160620105877987798.jpg",
+          "image": "http://img.zgqbyp.com/image/20160620/20160620105877987798.jpg"
+        },
+        {
+          "name": "武强小版",
+          "price": 11,
+          "oldPrice": "48",
+          "description": "纪念邮票",
+          "sellCount": 256,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20151106/20151106101620542054.jpg",
+          "image": "http://img.zgqbyp.com/image/20151106/20151106101620542054.jpg"
+        },
+        {
+          "name": "香港万里长城型张",
+          "price": 60,
+          "oldPrice": "",
+          "description": "纪念邮票",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "香港万里长城小型张以多角度展现万里长城雄奇险要的气势。上方所见夕阳下的嘉峪关雄伟壮观，素有“天下第一雄关”之称，是昔日丝绸之路的交通枢纽与边防重地。小型张左方和邮票部分所见为长城八达岭段。整个长城八达岭段气势雄伟，险峻陡峭，自古以来是南北交通的要道。小型张右方及邮票的上方则展现长城金山岭段。建于地势险要、蜿蜒起伏群山峻岭上的金山岭段，是进出塞内外的要道，也是历史上兵家必争之地。万里长城展现中国古代人民的坚强毅力和高度智能、中国古代工程技术的非凡成就，以及中华民族的悠久历史。",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img.zgqbyp.com/image/20160302/20160302103547964796.jpg",
+          "image": "http://img.zgqbyp.com/image/20160302/20160302103547964796.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,东西很好,经常买,非常赞,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "世博流通币",
+        "虎年流通币"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "克服态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "万里长城型张"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心卖家",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "老板人很好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "熊猫纪念币"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "包装很精美",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "东西不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "下次还来",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好东西",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
