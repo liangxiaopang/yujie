@@ -140,6 +140,10 @@ export default {
           color:rgb(7,17,27)
           .stress
             font-size:20px
+            @media screen and (max-width:426px)
+              font-size:16px 
+            @media screen and (max-width:376px)
+              font-size:14px           
     .favorite
       position:absolute
       width:50px
